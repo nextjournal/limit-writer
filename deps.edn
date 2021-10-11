@@ -4,4 +4,4 @@
 
  :deps/prep-lib {:ensure "target/classes"
                  :alias :build
-                 :fn compile-java}}
+                 :fn build/compile-java}}
