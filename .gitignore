@@ -1,0 +1,15 @@
+.DS_Store
+.cache/
+.cpcache/
+.lsp/
+.nrepl-port
+/node_modules/
+/public/css/app.css
+/public/js/
+/.shadow-cljs/
+/target/
+.idea/
+clerk.iml
+public/girouette.css
+public/images/
+yarn.lock
